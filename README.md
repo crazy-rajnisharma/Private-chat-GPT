@@ -30,3 +30,10 @@ https://huggingface.co/MBZUAI/LaMini-T5-738M
 
 **Start the chatbot application using Streamlit** 
 `streamlit run chatbot_app.py`
+
+
+
+![Screenshot 2024-01-29 143726 1](https://github.com/Tech-Savvy-Rajni/Private-chat-GPT/assets/157015217/657f7ae8-8010-4200-90a3-bddba9b66f10)
+![Screenshot 2024-01-29 143645 1](https://github.com/Tech-Savvy-Rajni/Private-chat-GPT/assets/157015217/89ab8306-41c4-41ec-967b-443bb645419e)
+![Screenshot 2024-01-29 143536 1](https://github.com/Tech-Savvy-Rajni/Private-chat-GPT/assets/157015217/36757e07-cc6f-4487-8e60-cebb4f3283cb)
+![Screenshot 2024-01-29 143551 1 (1)](https://github.com/Tech-Savvy-Rajni/Private-chat-GPT/assets/157015217/1bb2b820-4280-4140-a8e2-55c1733d76de)
